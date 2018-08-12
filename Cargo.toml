@@ -1,0 +1,12 @@
+[package]
+name = "gsm"
+version = "0.1.0"
+authors = ["evpobr <evpobr@gmail.com>"]
+repository="https://github.com/evpobr/rust-gsm"
+readme = "README.md"
+keywords = ["gsm", "encoder", "decoder", "audio"]
+categories = ["compression", "multimedia::audio", "multimedia::encoding"]
+license="libgsm license"
+license-file = "LICENSE"
+
+[dependencies]
